@@ -1,5 +1,5 @@
 #  Quantum Computing Companies Stock Prices
-Andrew Guilette, Lucas Thormann
+Lucas Thormann
 
 ## Project Summary
 In this project, we used multiple machine learning algorithms to predict stock prices. We tweaked the alpha values in each regression to find out how the alpha value impacted each regression and what values led to better models.
