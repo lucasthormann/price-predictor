@@ -2,7 +2,7 @@
 Lucas Thormann
 
 ## Project Summary
-In this project, we used multiple machine learning algorithms to predict stock prices. We tweaked the alpha values in each regression to find out how they impacted each regression and what values led to better models.
+In this project we used multiple machine learning algorithms to predict stock prices. We tweaked the alpha values in each regression to find out how they impacted each regression and what values led to better models.
 
 We found that the Ridge Regression led to a small mean squared error and an R2 score close to 1. The Lasso Regressions had a higher mean squared error and a slightly lower R2 score than the Ridge Regressions. We concluded that the Ridge Regressions performed better due to the multicollinearity of the dataset which we found to be common in stock data.
 
